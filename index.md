@@ -1,3 +1,3 @@
-# testsite1234.github.io
+# testsite1234
 
 site for testing purposes
